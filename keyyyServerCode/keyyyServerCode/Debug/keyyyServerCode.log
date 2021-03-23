@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\kraig\source\repos\keyyyServerCode\keyyyServerCode\Source.cpp(108,32): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\kraig\source\repos\keyyyServerCode\keyyyServerCode\Source.cpp(108,28): warning C4309: '=': truncation of constant value
+  keyyyServerCode.vcxproj -> C:\Users\kraig\source\repos\keyyyServerCode\Debug\keyyyServerCode.exe
