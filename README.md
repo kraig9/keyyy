@@ -1,5 +1,5 @@
 # keyyy
-Keylogger for Windows using Windows system hooks. (FOR FUN! DO NOT USE FOR MALICIOUS PURPOSES!)
+Keylogger for Windows using Windows system hooks.
 
 This repository consists of two Visual Studio (2019) solutions: the client and the server.
 
